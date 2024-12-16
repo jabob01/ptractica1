@@ -17,7 +17,7 @@ fun Columnas() {
     Column(  horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
         modifier = Modifier.padding(vertical = 36.dp, horizontal = 8.dp)
-            .background(color = androidx.compose.ui.graphics.Color.Red)
+            .background(color = androidx.compose.ui.graphics.Color.Green)
             .fillMaxSize()
     )   {
 
